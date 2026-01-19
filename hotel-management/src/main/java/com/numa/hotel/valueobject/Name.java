@@ -1,7 +1,6 @@
 package com.numa.hotel.valueobject;
 
-public class Name {
-    
+public final class Name {
     private final String value;
 
     public Name(String value) {
@@ -15,5 +14,3 @@ public class Name {
         return value;
     }
 }
-
-    
