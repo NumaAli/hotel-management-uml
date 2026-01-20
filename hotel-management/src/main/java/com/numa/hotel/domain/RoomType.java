@@ -1,7 +1,8 @@
 package com.numa.hotel.domain;
-
 import com.numa.hotel.enumtype.RoomKind;
 import com.numa.hotel.valueobject.Money;
+
+
 
 public class RoomType {
 
@@ -10,10 +11,10 @@ public class RoomType {
 
     public RoomType(RoomKind kind, Money cost) {
         if (kind == null) {
-            throw new IllegalArgumentException("RoomKind must not be null");
+            throw new IllegalArgumentException("Room kind cannot be null");
         }
         if (cost == null) {
-            throw new IllegalArgumentException("Room cost must not be null");
+            throw new IllegalArgumentException("Cost cannot be null");
         }
 
         this.kind = kind;

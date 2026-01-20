@@ -1,1 +1,16 @@
+com/numa/hotel/valueobject/Name.class
+com/numa/hotel/domain/HotelChain.class
+com/numa/hotel/domain/Reservation.class
 com/numa/hotel/App.class
+com/numa/hotel/valueobject/Money.class
+com/numa/hotel/domain/Hotel.class
+com/numa/hotel/valueobject/Identity.class
+com/numa/hotel/enumtype/RoomKind.class
+com/numa/hotel/domain/RoomType.class
+com/numa/hotel/valueobject/CreditCard.class
+com/numa/hotel/valueobject/HowMany.class
+com/numa/hotel/valueobject/Address.class
+com/numa/hotel/Main.class
+com/numa/hotel/domain/Room.class
+com/numa/hotel/domain/Guest.class
+com/numa/hotel/domain/ReserverPayer.class

@@ -1,2 +1,17 @@
 /Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/App.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/Main.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/Guest.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/GuestTest.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/Hotel.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/HotelChain.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/Reservation.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/ReserverPayer.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/Room.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/domain/RoomType.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/enumtype/RoomKind.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/valueobject/Address.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/valueobject/CreditCard.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/valueobject/HowMany.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/valueobject/Identity.java
+/Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/valueobject/Money.java
 /Users/basheerkhansallar/UML Implementation/hotel-management-uml/hotel-management/src/main/java/com/numa/hotel/valueobject/Name.java

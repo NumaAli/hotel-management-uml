@@ -6,21 +6,19 @@ import com.numa.hotel.valueobject.Name;
 public class Guest {
 
     private final Name name;
-    private final Address addressDetails;
+    private final Address address;
 
-    public Guest(Name name, Address addressDetails) {
-        if (name == null) {
-            throw new IllegalArgumentException("Name cannot be null");
-        }
-        if (addressDetails == null) {
-            throw new IllegalArgumentException("Address cannot be null");
-        }
-
+    public Guest(Name name, Address address) {
         this.name = name;
-        this.addressDetails = addressDetails;
+        this.address = address;
     }
 
-    public static Guest create(Name name, Address address) {
-        return new Guest(name, address);
+    // Must have these getters
+    public Name getName() {
+        return name;
+    }
+
+    public Address getAddress() {
+        return address;
     }
 }
